@@ -67,3 +67,7 @@ shopify-product-page/
 │   ├── images/
 │   └── icons/
 └── README.md
+
+
+
+LIVE LINK :celadon-squirrel-9793ef.netlify.app
